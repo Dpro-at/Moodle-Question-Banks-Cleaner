@@ -2,6 +2,12 @@
 
 A comprehensive Moodle plugin for managing and cleaning up questions in the question bank.
 
+## Screenshots
+
+![Question Cleaner Interface](images/image1.png)
+
+![Question Cleaner Features](images/image2.png)
+
 ## Features
 
 - View and manage used questions
@@ -14,7 +20,7 @@ A comprehensive Moodle plugin for managing and cleaning up questions in the ques
 
 ## Installation
 
-1. Copy the `questioncleaner` folder to `moodle/local/`
+1. Copy the entire `questioncleaner` folder (including the `images/` folder) to `moodle/local/`
 2. Visit Site administration > Notifications to complete the installation
 3. Grant necessary permissions to users who should access this plugin
 
@@ -111,5 +117,5 @@ For technical support and inquiries, please contact:
 
 ---
 
-**Copyright © 2024 Dpro GmbH & Flowxtra GmbH. All rights reserved.**
+**Copyright © 2026 Dpro GmbH & Flowxtra GmbH. All rights reserved.**
 
